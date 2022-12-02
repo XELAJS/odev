@@ -1,0 +1,2 @@
+# odev
+oryantasyon ödev
